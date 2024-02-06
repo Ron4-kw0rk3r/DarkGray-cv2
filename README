@@ -3,19 +3,13 @@
  
 # Conversión de Imágenes a Escala de Grises
 
-
-
-
 ![test-py](resources/dark-color.jpg)
-
-
-
 
 ### Este proyecto permite convertir imágenes en formatos JPG, PNG y JPEG a escala de grises, destacando los tonos blancos y oscuros.
 
 # convert img.[jpg , png , jpeg] to scale grises  white/dark
 
-run code: 
+### run code: 
 
 terminal (linux) 
  $ python __startrig.py PATH_IMAGE
